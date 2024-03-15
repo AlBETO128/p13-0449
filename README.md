@@ -19,11 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ## Proyecto
-![image](https://github.com/AlBETO128/P15-version2/assets/143547229/b5fd9d5a-f223-43f4-a59d-d80fc8e53430)
-![image](https://github.com/AlBETO128/P15-version2/assets/143547229/930c33b6-e6c8-44b0-b601-06683460a2f9)
-![image](https://github.com/AlBETO128/P15-version2/assets/143547229/81ec03a8-5610-4465-94d8-3c5602722b0f)
-![image](https://github.com/AlBETO128/P15-version2/assets/143547229/9207cdfb-5736-459d-ac28-6337e7f75f67)
-
+![image](https://github.com/AlBETO128/p13-0449/assets/143547229/6ae4b798-f47b-4630-84b4-115031466603)
+![image](https://github.com/AlBETO128/p13-0449/assets/143547229/1bcd0907-bd74-4edf-bb4d-213adb639429)
+![image](https://github.com/AlBETO128/p13-0449/assets/143547229/2379ac1c-7a7e-4a93-8084-becceb1552eb)
 
 ## Link de Referencia
 -https://github.com/flutter-teacher/container-widget/blob/main/main.dart
